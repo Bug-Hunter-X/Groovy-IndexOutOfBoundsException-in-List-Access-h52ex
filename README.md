@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: the `IndexOutOfBoundsException` when accessing a list element using an index that is out of range. The `bug.groovy` file shows the error, while `bugSolution.groovy` provides a safe solution using the elvis operator or a conditional check.
